@@ -1,6 +1,6 @@
 # Sales Data Warehouse
 
-Pipeline ETL que carrega dados de vendas do Superstore em um data warehouse PostgreSQL seguindo um modelo de star schema.
+Pipeline ETL que carrega dados de vendas do [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) em um data warehouse PostgreSQL seguindo um modelo de star schema.
 
 ## Arquitetura
 
