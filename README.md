@@ -57,7 +57,7 @@ Isso inicia uma instância do PostgreSQL 15 na porta `5434`.
 **2. Criar o arquivo `.env`**
 
 ```env
-DATABASE_URL=postgresql://postgres:hakkjj97@localhost:5434/sales
+DATABASE_URL=postgresql://<usuario>:<senha>@<host>:<porta>/<banco>
 ```
 
 **3. Instalar as dependências**
